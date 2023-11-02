@@ -23,9 +23,9 @@ The objective is also to identify the factors that contribute the most to the Hu
 
 ## Repository structure
 This project is divided into 3 parts (contains a Jupyter notebooks for each part). 
-* **PART-1** : Exploratory data analysis & building a simple scikit-learn pipeline.
-* **PART-2** : Using GridSearchCV to perform hyperparameter optimization for Logistic Regression & Decision Tree models.
-* **PART-3** : Deep Learning approach to the problem using Keras.
+* **Swaraj Shedge - AI - SciKit Learn ML.ipynb** : Exploratory data analysis & building a simple scikit-learn pipeline.
+* **Swaraj Shedge - AI - Grid Search.ipynb** : Using GridSearchCV to perform hyperparameter optimization for Logistic Regression & Decision Tree models.
+* **Swaraj Shedge - AI - Deep Learning.ipynb** : Deep Learning approach to the problem using Keras.
 
 ## Requirements
 - Jupyter Notebook / Google colab
